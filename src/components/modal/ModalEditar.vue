@@ -58,7 +58,8 @@ export default {
         titulo: this.titulo,
         id: this.tarefa.id,
       };
-      this.$store.commit('editaTarefa', novaTarefa);
+      //dispatch serve para agir a action no Vuex, store->index.js
+      this.$store.dispatch('editaTarefa', novaTarefa);
       this.$emit('fechaModal');
     },
   },
