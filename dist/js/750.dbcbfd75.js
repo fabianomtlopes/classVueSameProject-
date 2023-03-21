@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkapp_list_task"]=self["webpackChunkapp_list_task"]||[]).push([[750],{7750:function(t,s,n){n.r(s),n.d(s,{default:function(){return r}});var u=function(){var t=this;t._self._c;return t._m(0)},a=[function(){var t=this,s=t._self._c;return s("div",{staticClass:"about"},[s("h1",[t._v("This is an about page")])])}],l=n(1001),e={},i=(0,l.Z)(e,u,a,!1,null,null,null),r=i.exports}}]);
-//# sourceMappingURL=750.dbcbfd75.js.map
