@@ -3,8 +3,8 @@
         <ListaDeTarefas />
       
         <div 
-        v-if="!$store.state.tarefas.lenght"
-        class="mt-16 animate__animated animate__bounceOutUp">
+        v-if="!$store.state.tarefas.length"
+        class="mt-16 animate__animated animate__bounceInUp">
           <center>
           <v-icon size="100" color="primary">
             mdi-check
